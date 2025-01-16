@@ -1,4 +1,20 @@
 [
+        {
+        "name": "Velocity",
+        "pros": ["Has a decompiler", "97% sUNC [100% UNC]", "Level 8"],
+        "neutral": [],
+        "link": "https://linkvertise.com/1219239/velocity-official?o=sharing",
+        "cons": [],
+        "buttonText": "Website",
+        "types": ["unc", "windows"],
+        "unc": "/assets/unc/wave.json",
+        "lastEditedBy": "voxlis.NET",
+        "lastEditedByImage": "assets/verified.png",
+        "buylink": "https://www.getvelocity.live/",
+        "buytext": "FREE",
+        "glow": "#06A3F1",
+        "expires": "N/A"
+    },
     {
         "name": "Wave",
         "pros": ["Has a decompiler", "100% sUNC [100% UNC]", "Level 8"],
